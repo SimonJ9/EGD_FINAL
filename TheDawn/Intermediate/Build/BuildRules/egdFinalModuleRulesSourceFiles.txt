@@ -1,0 +1,3 @@
+D:\Academy\TheDawn\egdFinal\Source\egdFinal\egdFinal.Build.cs
+D:\Academy\TheDawn\egdFinal\Source\egdFinal.Target.cs
+D:\Academy\TheDawn\egdFinal\Source\egdFinalEditor.Target.cs

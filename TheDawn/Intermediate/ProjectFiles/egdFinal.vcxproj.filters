@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\egdFinal.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A1A7F981-DD25-4F39-A13A-8A41663CBA5F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\egdFinal.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\egdFinalEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{81EFE105-0492-4CC3-870D-795FD13BCB47}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\egdFinal">
+			<UniqueIdentifier>{EAC06778-D341-4373-9F8A-FD5C44E0216A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\egdFinal\egdFinal.Build.cs">
+			<Filter>Source\egdFinal</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\egdFinal\egdFinal.cpp">
+			<Filter>Source\egdFinal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\egdFinal\egdFinal.h">
+			<Filter>Source\egdFinal</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\egdFinal\egdFinalGameModeBase.cpp">
+			<Filter>Source\egdFinal</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\egdFinal\egdFinalGameModeBase.h">
+			<Filter>Source\egdFinal</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
